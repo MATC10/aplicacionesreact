@@ -1,0 +1,32 @@
+/* styles.css */
+
+
+.cajaCentral {
+    border-radius: 12px;
+    border: 1px solid black;
+    font-size: 2em;
+    color: black;
+    text-align: center;
+    padding: 2px 15px 20px;
+    box-sizing: border-box; 
+    margin-bottom: 10px;
+    width: 20%;
+    padding:12px;
+    }
+  
+    .caja{
+      display: flex;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+    }
+    img{
+      width: 100%;
+    }
+    
+    .red{
+        color: red;
+    }
+    
+   body{
+    margin:20px;
+   }
