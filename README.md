@@ -1,3 +1,7 @@
+# Para practicar React
+He creado muchas App en una, no están conectadas entre ellas y hay que modificar el index para poder ir probando las distintas App.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
